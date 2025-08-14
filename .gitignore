@@ -1,0 +1,28 @@
+outputs/*.txt
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.env/
+env/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Output and log files
+outputs/
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Documentation
+/docs
